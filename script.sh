@@ -1,0 +1,3 @@
+
+$ pkg install sceeenfetch 
+$ screenfetch
