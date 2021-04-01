@@ -15,4 +15,4 @@ $ screenfetch
 
 <hr>
 
-#  [Repo:](https://yanlimeng.github.io/TERMUX) 
+#  [Repo](https://yanlimeng.github.io/TERMUX) 
