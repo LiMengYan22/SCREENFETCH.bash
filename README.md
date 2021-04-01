@@ -1,5 +1,5 @@
 SCREENFETCH 
-Para ver configuraciones del *Sistema ***Android*** ..
+Para ver configuraciones del *Sistema **Android*** ..
 
 ```
 
